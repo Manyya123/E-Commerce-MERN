@@ -1,0 +1,37 @@
+/* Ensure content is not hidden by the header */
+.policy-section-container {
+    height: 100vh; /* Full viewport height */
+    overflow-y: auto; /* Scroll when content exceeds the height */
+    padding: 20px;
+    box-sizing: border-box;
+    padding-top: 80px; /* Add top padding to avoid overlap with header */
+  }
+  
+  /* Adjust header styles if needed */
+  .header {
+    position: fixed; /* Ensure header is fixed at the top */
+    width: 100%; /* Full width */
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Ensure header stays on top of other content */
+    background-color: #fff; /* Set a background color to cover content */
+    height: 60px; /* Height of the header */
+    line-height: 60px; /* Align text vertically */
+  }
+  
+  /* Policy text section styling */
+  .policy-section {
+    max-width: 100%;
+  }
+  
+  .policy-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .policy-section p {
+    font-size: 1em;
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  
