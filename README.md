@@ -73,3 +73,65 @@ $ npm run dev (to start the backend and frontend concurrently)
 11. Orders page
 12. Search bar to search products by name and description 
 13. Pagination
+
+## Screenshots
+## Home Page
+
+<div style="text-align: center;">
+  <img src="./images/Home_Page.png" alt="Home Page-1" width="500"  style="display: inline-block; margin: 10px;"/>
+  <img src="./images/Home_Page(2).png" alt="Home Page-2" width="500"  style="display: inline-block; margin: 10px;"/>
+</div>
+
+## Category Page
+
+<div style="text-align: center;">
+  <img src="./images/Category.png" alt="Blogs Listing Page" width="600" style="margin: 10px;"/>
+</div>
+
+## Registration Form
+
+<div style="text-align: center;">
+  <img src="./images/Registration_Form.png" alt="Single Blog Page" width="600" style="margin: 10px;"/>
+</div>
+
+## Login Form
+
+<div style="text-align: center;">
+  <img src="./images/Login_Form.png" alt="Single Blog Page" width="600" style="margin: 10px;"/>
+</div>
+
+## Users Dashboard
+
+<div style="text-align: center;">
+  <img src="./images/Dashboard.png" alt="Users Dashboard" width="600" style="margin: 10px;"/>
+</div>
+
+## User Profile Page
+
+<div style="text-align: center;">
+  <img src="./images/User_Profile.png" alt="About Page" width="600" style="margin: 10px;"/>
+</div>
+
+## Cart
+
+<div style="text-align: center;">
+  <img src="./images/Cart.png" alt="Admin Dashboard" width="600" style="margin: 10px;"/>
+</div>
+
+## About Page
+
+<div style="text-align: center;">
+  <img src="./images/About_Us.png" alt="About Page" width="600" style="margin: 10px;"/>
+</div>
+
+## Contact Us Page
+
+<div style="text-align: center;">
+  <img src="./images/Contact_Us.png" alt="About Page" width="600" style="margin: 10px;"/>
+</div>
+
+## Policy Page
+
+<div style="text-align: center;">
+  <img src="./images/Policy.png" alt="About Page" width="600" style="margin: 10px;"/>
+</div>
